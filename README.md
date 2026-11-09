@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 網站連結
-> 部署後填入 GitHub Pages 連結：`https://<username>.github.io/<repo-name>/`
+https://xivan950225-cmyk.github.io/tomo2/
 
 ---
 
